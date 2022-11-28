@@ -1,2 +1,2 @@
 # signature-pad-php-with-mysql
-![This is an image](https://github.com/goldenashok/signature-pad-php-with-mysql/tree/main/upload/design.png)
+![This is an image](/goldenashok/signature-pad-php-with-mysql/blob/main/upload/design.png?raw=true)
